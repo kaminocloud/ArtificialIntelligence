@@ -3,10 +3,10 @@
 
 ## Contents
 
-1. [Introduction](#introduction)
-2. [Software Intelligence](#software-intelligence)
-3. [Device Intelligence](#device-intelligence)
-4. [Contact](#contact)
+[Introduction](#introduction)
+[Software Intelligence](#software-intelligence)
+[Device Intelligence](#device-intelligence)
+[Contact](#contact)
 
 ## Introduction
 
