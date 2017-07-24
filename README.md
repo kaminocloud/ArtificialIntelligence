@@ -18,8 +18,35 @@ Device based Intelligences such as wearables, sensors and Internet of Things dev
 
 ## Software Intelligence
 
+### [Workplace Bots](https://github.com/kaminocloud/ArtificialIntelligence/WorkplaceBots.md)
+
+### [Public Bots](https://github.com/kaminocloud/ArtificialIntelligence/PublicBots.md)
+
+### [Facilities Management](https://github.com/kaminocloud/ArtificialIntelligence/SoftwareFacilitiesManagement.md)
+
+### [Travel 360](https://github.com/kaminocloud/ArtificialIntelligence/SoftwareTravel360.md)
+
+### [Big Duty Free](https://github.com/kaminocloud/ArtificialIntelligence/SoftwareBDF.md)
+
+### [People Department](https://github.com/kaminocloud/ArtificialIntelligence/SoftwarePeople.md)
+
+
 
 ## Device Intelligence
+
+### [Facilities Management](https://github.com/kaminocloud/ArtificialIntelligence/DeviceFacilitiesManagement.md)
+
+### [Security](https://github.com/kaminocloud/ArtificialIntelligence/DeviceSecurity.md)
+
+### [Engineering](https://github.com/kaminocloud/ArtificialIntelligence/DeviceEngineering.md)
+
+### [Maintenance](https://github.com/kaminocloud/ArtificialIntelligence/DeviceMaintenance.md)
+
+### [People Department](https://github.com/kaminocloud/ArtificialIntelligence/DevicePeople.md)
+
+
+
+
 
 
 ## Contact
