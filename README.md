@@ -22,7 +22,7 @@ Device based Intelligences such as wearables, sensors and Internet of Things dev
 ## Software Intelligence
 
 ### [Workplace Bots](https://github.com/kaminocloud/ArtificialIntelligence/WorkplaceBots.md)
-![Workplace Logo](https://github.com/kaminocloud/ArtificialIntelligence/blob/master/Workplace_Wordmark_Black_PNG-1030x391.png)
+![Workplace Logo](https://github.com/kaminocloud/ArtificialIntelligence/blob/master/Workplace_Wordmark_Black_PNG-1030x391.png){:height="36px" width="36px"}
 
 These bots are for internal use and are accessible via Workplace. Most of these bots are interactive and the rest are Workplace integrations that exist to collect and understand data from AirAsia.
 
