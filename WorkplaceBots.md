@@ -4,5 +4,5 @@
 
 Here are a list of all the bots we have planned for and deployed on Workplace.
 
-* [Thanks Bot]((https://github.com/kaminocloud/ArtificialIntelligence/Workplace/ThanksBot.md)
+* [Thanks Bot](https://github.com/kaminocloud/ArtificialIntelligence/Workplace/ThanksBot.md)
 
