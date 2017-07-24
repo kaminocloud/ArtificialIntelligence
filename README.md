@@ -22,17 +22,29 @@ Device based Intelligences such as wearables, sensors and Internet of Things dev
 ## Software Intelligence
 
 ### [Workplace Bots](https://github.com/kaminocloud/ArtificialIntelligence/WorkplaceBots.md)
+![Workplace Logo](https://github.com/kaminocloud/ArtificialIntelligence/blob/master/Workplace_Wordmark_Black_PNG-1030x391.png)
+
+These bots are for internal use and are accessible via Workplace. Most of these bots are interactive and the rest are Workplace integrations that exist to collect and understand data from AirAsia.
 
 ### [Public Bots](https://github.com/kaminocloud/ArtificialIntelligence/PublicBots.md)
 
+Most of these bots are public facing and live on our Facebook, Twitter and websites. They are part of our customer experience and communications channels and are interactive. The rest of these bots serve to collect and understand data generated from our customers across AirAsia.
+
 ### [Facilities Management](https://github.com/kaminocloud/ArtificialIntelligence/SoftwareFacilitiesManagement.md)
+
+These are software based intelligences that work across Facilities Management activities within RedQ and other AirAsia locations.
 
 ### [Travel 360](https://github.com/kaminocloud/ArtificialIntelligence/SoftwareTravel360.md)
 
+These are software based intelligences that work across Travel360 assets, magazine and website.
+
 ### [Big Duty Free](https://github.com/kaminocloud/ArtificialIntelligence/SoftwareBDF.md)
+
+These are software based intelligences that work across Big Duty Free assets, catalog and website.
 
 ### [People Department](https://github.com/kaminocloud/ArtificialIntelligence/SoftwarePeople.md)
 
+These are specialised software intelligences that help People Department run activities and collect data on staff across AirAsia efficiently and non-disruptively.
 
 
 ## Device Intelligence
