@@ -5,4 +5,8 @@
 Here are a list of all the bots we have planned for and deployed on Workplace.
 
 * [Thanks Bot](https://github.com/kaminocloud/ArtificialIntelligence/Workplace/ThanksBot.md)
-
+* [Mood-O-Meter](https://github.com/kaminocloud/ArtificialIntelligence/Workplace/MoodOMeter.md)
+* [IT Helpdesk](https://github.com/kaminocloud/ArtificialIntelligence/Workplace/ITHelpdesk.md)
+* [Good Job](https://github.com/kaminocloud/ArtificialIntelligence/Workplace/GoodJob.md)
+* [Ideas Bot](https://github.com/kaminocloud/ArtificialIntelligence/Workplace/IdeasBot.md)
+* [Meeting Room Booker](https://github.com/kaminocloud/ArtificialIntelligence/Workplace/MeetingRoomBooker.md)
