@@ -60,10 +60,6 @@ These are specialised software intelligences that help People Department run act
 ### [People Department](https://github.com/kaminocloud/ArtificialIntelligence/DevicePeople.md)
 
 
-
-
-
-
 ## Contact
 
 You can contact me at joelswathish@airasia.com or on [Workplace](https://airasia.facebook.com/profile.php?id=100014575231763). I promise it will be me that responds, not a bot!
