@@ -12,6 +12,6 @@ Here are a list of all the bots we have planned for and deployed on Workplace.
 * [Meeting Room Booker](https://github.com/kaminocloud/ArtificialIntelligence/Workplace/MeetingRoomBooker.md)
 * [AllStar Helper](https://github.com/kaminocloud/ArtificialIntelligence/Workplace/AllstarHelper.md)
 * [Onboarding](https://github.com/kaminocloud/ArtificialIntelligence/Workplace/Onboarding.md)
-* [RedQ FM](https://github.com/kaminocloud/ArtificialIntelligence/Workplace/RedQFM.md)
+* [Facilities Bot](https://github.com/kaminocloud/ArtificialIntelligence/Workplace/RedQFM.md)
 * [Roster Helper](https://github.com/kaminocloud/ArtificialIntelligence/Workplace/RosterHelper.md)
 * [Flight Bot](https://github.com/kaminocloud/ArtificialIntelligence/Workplace/FlightBot.md)
