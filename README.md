@@ -21,43 +21,42 @@ Device based Intelligences such as wearables, sensors and Internet of Things dev
 
 ## Software Intelligence
 
-### [Workplace Bots](https://github.com/kaminocloud/ArtificialIntelligence/Workplace/WorkplaceBots.md)
-<img src=https://github.com/kaminocloud/ArtificialIntelligence/blob/master/Assets/Workplace/Workplace_Wordmark_Black_PNG-1030x391.png width=300px>
+### [Workplace Bots](Workplace/WorkplaceBots.md)
 
 These bots are for internal use and are accessible via Workplace. Most of these bots are interactive and the rest are Workplace integrations that exist to collect and understand data from AirAsia.
 
-### [Public Bots](https://github.com/kaminocloud/ArtificialIntelligence/Public/PublicBots.md)
+### [Public Bots](Public/PublicBots.md)
 
 Most of these bots are public facing and live on our Facebook, Twitter and websites. They are part of our customer experience and communications channels and are interactive. The rest of these bots serve to collect and understand data generated from our customers across AirAsia.
 
-### [Facilities Management](https://github.com/kaminocloud/ArtificialIntelligence/Facilities/SoftwareFacilitiesManagement.md)
+### [Facilities Management](Facilities/SoftwareFacilitiesManagement.md)
 
 These are software based intelligences that work across Facilities Management activities within RedQ and other AirAsia locations.
 
-### [Travel 360](https://github.com/kaminocloud/ArtificialIntelligence/3sixty/SoftwareTravel3sixty.md)
+### [Travel 360](3sixty/SoftwareTravel3sixty.md)
 
 These are software based intelligences that work across Travel360 assets, magazine and website.
 
-### [Big Duty Free](https://github.com/kaminocloud/ArtificialIntelligence/BigDutyFree/SoftwareBDF.md)
+### [Big Duty Free](BigDutyFree/SoftwareBDF.md)
 
 These are software based intelligences that work across Big Duty Free assets, catalog and website.
 
-### [People Department](https://github.com/kaminocloud/ArtificialIntelligence/People/SoftwarePeople.md)
+### [People Department](People/SoftwarePeople.md)
 
 These are specialised software intelligences that help People Department run activities and collect data on staff across AirAsia efficiently and non-disruptively.
 
 
 ## Device Intelligence
 
-### [Facilities Management](https://github.com/kaminocloud/ArtificialIntelligence/Facilities/DeviceFacilitiesManagement.md)
+### [Facilities Management](Facilities/DeviceFacilitiesManagement.md)
 
-### [Security](https://github.com/kaminocloud/ArtificialIntelligence/Security/DeviceSecurity.md)
+### [Security](Security/DeviceSecurity.md)
 
-### [Engineering](https://github.com/kaminocloud/ArtificialIntelligence/Engineering/DeviceEngineering.md)
+### [Engineering](Engineering/DeviceEngineering.md)
 
-### [Maintenance](https://github.com/kaminocloud/ArtificialIntelligence/Maintenance/DeviceMaintenance.md)
+### [Maintenance](Maintenance/DeviceMaintenance.md)
 
-### [People Department](https://github.com/kaminocloud/ArtificialIntelligence/People/DevicePeople.md)
+### [People Department](People/DevicePeople.md)
 
 
 ## Contact
