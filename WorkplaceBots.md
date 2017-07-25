@@ -14,5 +14,4 @@ Here are a list of all the bots we have planned for and deployed on Workplace.
 * [Onboarding](https://github.com/kaminocloud/ArtificialIntelligence/Workplace/Onboarding.md)
 * [RedQ FM](https://github.com/kaminocloud/ArtificialIntelligence/Workplace/RedQFM.md)
 * [Roster Helper](https://github.com/kaminocloud/ArtificialIntelligence/Workplace/RosterHelper.md)
-* [Flight Info](https://github.com/kaminocloud/ArtificialIntelligence/Workplace/FlightInfo.md)
 * [Flight Bot](https://github.com/kaminocloud/ArtificialIntelligence/Workplace/FlightBot.md)
