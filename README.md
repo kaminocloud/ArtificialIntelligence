@@ -1,5 +1,5 @@
 # Artificial Intelligence in AirAsia
-![Intelligence](https://github.com/kaminocloud/ArtificialIntelligence/blob/master/Assets/pexels-photo-355948.jpeg)
+![Intelligence](Assets/pexels-photo-355948.jpeg)
 
 
 ### A directory of AI Products and their descriptions
