@@ -1,5 +1,5 @@
 # Artificial Intelligence in AirAsia
-![Intelligence](https://github.com/kaminocloud/ArtificialIntelligence/Assets/pexels-photo-355948.jpeg)
+![Intelligence](https://github.com/kaminocloud/ArtificialIntelligence/blob/master/Assets/pexels-photo-355948.jpeg)
 
 
 ### A directory of AI Products and their descriptions
@@ -22,7 +22,7 @@ Device based Intelligences such as wearables, sensors and Internet of Things dev
 ## Software Intelligence
 
 ### [Workplace Bots](https://github.com/kaminocloud/ArtificialIntelligence/Workplace/WorkplaceBots.md)
-<img src=https://github.com/kaminocloud/ArtificialIntelligence/Assets/Workplace/Workplace_Wordmark_Black_PNG-1030x391.png width=300px>
+<img src=https://github.com/kaminocloud/ArtificialIntelligence/blob/master/Assets/Workplace/Workplace_Wordmark_Black_PNG-1030x391.png width=300px>
 
 These bots are for internal use and are accessible via Workplace. Most of these bots are interactive and the rest are Workplace integrations that exist to collect and understand data from AirAsia.
 
