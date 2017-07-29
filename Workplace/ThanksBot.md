@@ -12,7 +12,9 @@ The Thanks Bot lives on Workplace and allows Workplace users to thank other user
 @Thanks, @person for doing a great job!
 ```
 Or some variation of this
+
 3. Post
+
 4. On successful post, the Thanks Bot will Like the post, and follow up with a comment:
 ```
 Thanks for your thanks!
