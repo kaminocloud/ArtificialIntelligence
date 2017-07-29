@@ -21,42 +21,42 @@ Device based Intelligences such as wearables, sensors and Internet of Things dev
 
 ## Software Intelligence
 
-### [Workplace Bots](Workplace/WorkplaceBots.md)
+### [Workplace Bots](Workplace/Software-Workplace.md)
 
 These bots are for internal use and are accessible via Workplace. Most of these bots are interactive and the rest are Workplace integrations that exist to collect and understand data from AirAsia.
 
-### [Public Bots](Public/PublicBots.md)
+### [Public Bots](Public/Software-Public.md)
 
 Most of these bots are public facing and live on our Facebook, Twitter and websites. They are part of our customer experience and communications channels and are interactive. The rest of these bots serve to collect and understand data generated from our customers across AirAsia.
 
-### [Facilities Management](Facilities/SoftwareFacilitiesManagement.md)
+### [Facilities Management](Facilities/Software-Facilities.md)
 
 These are software based intelligences that work across Facilities Management activities within RedQ and other AirAsia locations.
 
-### [Travel 360](3sixty/SoftwareTravel3sixty.md)
+### [Travel 360](3sixty/Software-3sixty.md)
 
 These are software based intelligences that work across Travel360 assets, magazine and website.
 
-### [Big Duty Free](BigDutyFree/SoftwareBDF.md)
+### [Big Duty Free](BigDutyFree/Software-BDF.md)
 
 These are software based intelligences that work across Big Duty Free assets, catalog and website.
 
-### [People Department](People/SoftwarePeople.md)
+### [People Department](People/Software-People.md)
 
 These are specialised software intelligences that help People Department run activities and collect data on staff across AirAsia efficiently and non-disruptively.
 
 
 ## Device Intelligence
 
-### [Facilities Management](Facilities/DeviceFacilitiesManagement.md)
+### [Facilities Management](Facilities/Hardware-Facilities.md)
 
-### [Security](Security/DeviceSecurity.md)
+### [Security](Security/Hardware-Security.md)
 
-### [Engineering](Engineering/DeviceEngineering.md)
+### [Engineering](Engineering/Hardware-Engineering.md)
 
-### [Maintenance](Maintenance/DeviceMaintenance.md)
+### [Maintenance](Maintenance/Hardware-Maintenance.md)
 
-### [People Department](People/DevicePeople.md)
+### [People Department](People/Hardware-People.md)
 
 
 ## Contact
