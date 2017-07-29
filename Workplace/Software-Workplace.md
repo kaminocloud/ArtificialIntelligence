@@ -10,13 +10,13 @@ Here are a list of all the bots we have planned for and deployed on Workplace.
 
 ## Planned
 
-* [Mood-O-Meter](Workplace/MoodOMeter.md)
-* [IT Helpdesk](Workplace/ITHelpdesk.md)
-* [Good Job](Workplace/GoodJob.md)
-* [Ideas Bot](Workplace/IdeasBot.md)
-* [Meeting Room Booker](Workplace/MeetingRoomBooker.md)
-* [AllStar Helper](Workplace/AllstarHelper.md)
-* [Onboarding](Workplace/Onboarding.md)
-* [Facilities Bot](Workplace/RedQFM.md)
-* [Roster Helper](Workplace/RosterHelper.md)
-* [Flight Bot](Workplace/FlightBot.md)
+* [Mood-O-Meter](MoodOMeter.md)
+* [IT Helpdesk](ITHelpdesk.md)
+* [Good Job](GoodJob.md)
+* [Ideas Bot](IdeasBot.md)
+* [Meeting Room Booker](MeetingRoomBooker.md)
+* [AllStar Helper](AllstarHelper.md)
+* [Onboarding](Onboarding.md)
+* [Facilities Bot](RedQFM.md)
+* [Roster Helper](RosterHelper.md)
+* [Flight Bot](FlightBot.md)
