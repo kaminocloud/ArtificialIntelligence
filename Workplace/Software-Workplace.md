@@ -6,7 +6,7 @@ Here are a list of all the bots we have planned for and deployed on Workplace.
 
 ## Deployed
 
-* [Thanks Bot](Workplace/ThanksBot.md)
+* [Thanks Bot](ThanksBot.md)
 
 ## Planned
 
