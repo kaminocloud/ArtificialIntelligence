@@ -1,17 +1,10 @@
-![Workplace Logo](Assets/Workplace/Workplace_Wordmark_Black_PNG-1030x391.png)
+# Device Intelligence - People
 
-# Workplace Bots
+Here is a list of all Device based Intelligences planned and deployed for People
 
-Here are a list of all the bots we have planned for and deployed on Workplace.
+## Deployed
 
-* [Thanks Bot](Workplace/ThanksBot.md)
-* [Mood-O-Meter](Workplace/MoodOMeter.md)
-* [IT Helpdesk](Workplace/ITHelpdesk.md)
-* [Good Job](Workplace/GoodJob.md)
-* [Ideas Bot](Workplace/IdeasBot.md)
-* [Meeting Room Booker](Workplace/MeetingRoomBooker.md)
-* [AllStar Helper](Workplace/AllstarHelper.md)
-* [Onboarding](Workplace/Onboarding.md)
-* [Facilities Bot](Workplace/RedQFM.md)
-* [Roster Helper](Workplace/RosterHelper.md)
-* [Flight Bot](Workplace/FlightBot.md)
+## Planned
+
+* [Employee Engagement and Emotion](EmployeeEngagement.md)
+* [Employee Facial Tracking and Attendance](EmployeeTracking.md)
