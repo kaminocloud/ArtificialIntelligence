@@ -58,6 +58,8 @@ These are specialised software intelligences that help People Department run act
 
 ### [People Department](People/Hardware-People.md)
 
+### [Public](Public/Hardware-Public.md)
+
 
 ## Contact
 
