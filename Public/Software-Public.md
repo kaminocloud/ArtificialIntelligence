@@ -17,4 +17,4 @@ Here is a list of all Software based Intelligences planned and deployed for Publ
 
 ### Planned
 
-* [Flight Bot](Flight Bot.md)
+* [Flight Bot](FlightBot.md)
